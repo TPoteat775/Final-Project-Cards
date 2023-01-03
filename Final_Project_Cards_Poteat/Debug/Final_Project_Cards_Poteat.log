@@ -1,0 +1,3 @@
+﻿  Final_Project_Cards_Poteat.cpp
+c:\users\potea\source\repos\final_project_cards_poteat\final_project_cards_poteat\final_project_cards_poteat.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Final_Project_Cards_Poteat.vcxproj -> C:\Users\potea\source\repos\Final_Project_Cards_Poteat\Debug\Final_Project_Cards_Poteat.exe
